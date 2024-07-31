@@ -1,5 +1,7 @@
 # Logistics-Problem
 ## Problem Statement
 
-The goal is to address the logistics problem by optimizing path planning for logistics operations and maximizing overall efficiency. The solution should be able to adapt to dynamically changing circumstances while effectively handling request priorities.
-### Problem Overview
+To solve the logistics problem by optimizing the path for the logistics operations and maximizing efficiency for the entire route planning as per requirement and adapting to the dynamically changing circumstances whilst also handling priorities of the requests. 
+
+
+
