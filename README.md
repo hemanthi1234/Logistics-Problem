@@ -20,5 +20,16 @@ To solve the logistics problem by optimizing the path for the logistics operatio
 
 4. **Alternative Resources**: 
    - In addition to in-house support vehicles, alternative resources such as private suppliers, private transportation, logistics support, and lending from nearby posts can be utilized.
+  
+
+### Request Handling
+
+- Requests from outposts come with an assumed 5-day cushion period to allow for optimization of delivery with available resources.
+- Certain requests may be more critical, such as those for medicines, fuel, or food, necessitating priority resolution.
+
+
+
+
+
 
 
