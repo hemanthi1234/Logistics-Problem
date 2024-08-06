@@ -3,29 +3,14 @@
 
 To solve the logistics problem by optimizing the path for the logistics operations and maximizing efficiency for the entire route planning as per requirement and adapting to the dynamically changing circumstances whilst also handling priorities of the requests. 
 
+## Exploring the Problem
 
-## Problem Description
-
-### Key Components
-
-1. **Central Hub**: 
-   - Unlimited supply of necessities such as fuel, food, water, ammunition, medicines, etc.
-   - Fixed number of support vehicles for logistics purposes.
-
-2. **Outposts**: 
-   - Multiple locations generating supply requests based on their requirements.
-   
-3. **Support Vehicles**: 
-   - Limited and fixed number of vehicles available for deliveries from the central hub.
-
-4. **Alternative Resources**: 
-   - In addition to in-house support vehicles, alternative resources such as private suppliers, private transportation, logistics support, and lending from nearby posts can be utilized.
-  
-
-### Request Handling
-
-- Requests from outposts come with an assumed 5-day cushion period to allow for optimization of delivery with available resources.
-- Certain requests may be more critical, such as those for medicines, fuel, or food, necessitating priority resolution.
+- There is a central hub that has an unlimited supply of all the necessities like fuel, food, ammunition, medicines, etc.
+- Multiple outposts will generate requests for different supplies from time to time as per their requirements.
+- The central hub has a limited and fixed number of support vehicles that it can issue for logistics, and send to the requesting outposts.
+- The requests are made with an assumed 5 days of cushion such that the central hub can wait for other requests and foreseeably optimize the delivery with the available support.
+- There can be certain requests which might be more important than others, for instance, medicines, or fuel in an active area, etc.
+- Therefore, on this basis, priority resolution of the requests is to be made, after which the route as well as the vehicles have to be optimized for the pending requests.
 
 
 
